@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "fantasydashpro"
+name = "fantasysportspro"
 version = "0.1.0"
 description = "Fantasy Football Dashboard Pro"
 authors = ["Ebru Engwall"]

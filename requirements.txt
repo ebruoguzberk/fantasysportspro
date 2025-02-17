@@ -1,4 +1,5 @@
-streamlit>=1.31.0
+streamlit>=1.41.1
 pandas>=2.2.0
-plotly>=5.18.0
-sqlite3 
+plotly>=5.24.0
+yahoo-fantasy-api>=2.9.1
+yahoo-oauth>=2.1.1 
