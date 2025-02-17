@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "fantasydashpro"
+version = "0.1.0"
+description = "Fantasy Football Dashboard Pro"
+authors = ["Ebru Engwall"]
+# packages = [{include = "fantasydashpro"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+streamlit = "^1.41.1"
+pandas = "^2.2.0"
+plotly = "^5.24.0"
+yahoo-fantasy-api = "^2.9.1"
+yahoo-oauth = "^2.1.1"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
